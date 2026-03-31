@@ -1,25 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                    ALCAME HITTER TELEGRAM BOT - ADVANCED HITTING TOOL           ║
-║                          Version: 2.0.0 | Build: 2026                        ║
-║                                                                               ║
-║  Features:                                                                    ║
-║  ✓ Anti-Detection & Fingerprint Randomization                                 ║
-║  ✓ AI-Powered Card Pattern Learning                                          ║
-║  ✓ Smart Rate Limiting & Timing Optimization                                 ║
-║  ✓ Multi-Threaded Concurrent Hitting                                         ║
-║  ✓ 3DS Auto-Bypass & Captcha Solver                                          ║
-║  ✓ Proxy Rotation & Quality Testing                                          ║
-║  ✓ URL Product & Amount Extractor                                            ║
-║  ✓ Complete Stripe Autofill (100+ Selectors)                                 ║
-║  ✓ Real-time Terminal Dashboard                                              ║
-║  ✓ Auto-Learning System                                                       ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-"""
-
 import re
 import time
 import random
